@@ -42,6 +42,13 @@ Similarly, the following are among the exclusive columns in the 'vaccinations' t
 My approach was to start with simple queries and work up to more complex ones. Many of the queries are aimed at extracting data to be visualised
 using Tableau. The brief, initial focus is on a single country (Germany) before expanding out to continent and world-level data.
 
+A few questions this analysis aims to answer are:
+
+- What is the most lethal month on average?
+- How has the Covid mortality rate evolved over time in Germany?
+- In what countries is one most likely to die *today* as a result of Covid?
+- What is the global vaccination rate (global and by continent)?
+
 # Limitations
 
 There are a few limitations and I believe these are the result of formatting mismatches between CSV files and MySQLWorkbench, which was used to conduct
