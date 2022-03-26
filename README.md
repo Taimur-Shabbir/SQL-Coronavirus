@@ -28,7 +28,7 @@ A few of the exclusive columns in the former are:
 - reproduction_rate
 - icu_patients
 
-Similarly, there are 27 columns in the 'vaccination. These include:
+Similarly, the following are among the exclusive columns in the 'vaccinations' table:
 
 - total_tests
 - positive_rate
