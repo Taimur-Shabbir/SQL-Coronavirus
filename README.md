@@ -54,7 +54,7 @@ was not imported.
 4. In the exploration of how much of a country's population is vaccinated, there are multiple countries with total vaccination rates of > 100%. 
 
 There could be a few reasons for this. The first is that the 'new_vaccinations' column (the sum of which is used to find the total vaccinations for a
-country' counts each shot and each booster dose as a value. So if an individual gets two vaccines over a year, with each vaccine having 2 shots and 1 
+country) counts each shot and each booster dose as a value. So if an individual gets two vaccines over a year, with each vaccine having 2 shots and 1 
 booster dose, that will result in a value of (2 vaccines x 2 shots) + (1 booster dose + 1 booster dose) = 6 'new vaccinations' for one person.
 
 The second reason could be that the data is erroneous. However, I conducted online research to see if data from 'new_vaccinations' column (among others)
