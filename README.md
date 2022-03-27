@@ -49,6 +49,12 @@ A few questions this analysis aims to answer are:
 - In what countries is one most likely to die *today* as a result of Covid?
 - What is the global vaccination rate (global and by continent)?
 
+
+# Visualisation
+
+A few queries have been visualised and collated as a [Tableau dashboard](https://public.tableau.com/app/profile/taimur.shabbir/viz/CovidVisualisationsV1/VaccinationRateOverTimeandPopulation). This can be found at: shorturl.at/mpsuC
+
+
 # Limitations
 
 There are a few limitations and I believe these are the result of formatting mismatches between CSV files and MySQLWorkbench, which was used to conduct
