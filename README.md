@@ -47,12 +47,12 @@ A few questions this analysis aims to answer are:
 - What is the most lethal month on average?
 - How has the Covid mortality rate evolved over time in Germany?
 - In what countries is one most likely to die *today* as a result of Covid?
-- What is the global vaccination rate (global and by continent)?
+- How has the global vaccination rate (global and by continent) evolved over time?
 
 
 # Visualisation
 
-A few queries have been visualised and collated as a [Tableau dashboard](https://public.tableau.com/app/profile/taimur.shabbir/viz/CovidVisualisationsV1/VaccinationRateOverTimeandPopulation). This can be found at: shorturl.at/mpsuC
+A few queries have been visualised and collated as a [Tableau dashboard](https://public.tableau.com/app/profile/taimur.shabbir/viz/CovidVisualisationsV1/VaccinationRateOverTimeandPopulation). This can be found at: https://public.tableau.com/app/profile/taimur.shabbir/viz/CovidVisualisationsV1/VaccinationRateOverTimeandPopulation
 
 
 # Limitations
